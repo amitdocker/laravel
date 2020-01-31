@@ -13,6 +13,6 @@ class Controller extends BaseController
 
     public function hi()
     {
-    	echo "from remote"
+    	echo "from .git"
     }
 }
